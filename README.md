@@ -4,4 +4,4 @@ This code is supposed to model the pitch arsenal vizualization of Max Scherzer o
 Savant's (cleaner) version:
 ![Savant](https://i.imgur.com/2XpK2Sx.png)
 My version:
-![Noah's](https://i.imgur.com/NsbOuXT.png)
+![Noah's](https://i.imgur.com/1bbnRY7.png)
